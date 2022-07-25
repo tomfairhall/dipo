@@ -1,2 +1,2 @@
-# dipo
-Program for a deform able, internally propelled orb (ball)
+# D.I.P.O.
+Arduino-based program to control a deformable-internally-propelled-orb (ball).
